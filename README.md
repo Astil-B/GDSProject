@@ -37,5 +37,5 @@ To run the notebooks, you need a Python environment with the following libraries
 Open the Jupyter Notebooks in chronological order (Part 1 to Part 5) to follow the development process.
 
 ## Authors
-Developed by Kian, Nicklas og Emil as part of the GDS-UCPH exam.
+Developed by Kian, Nicklas og Emil
 
