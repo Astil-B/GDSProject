@@ -6,13 +6,13 @@ This repository contains the exam project for the course Grundlæggende Data Sci
 The goal of this project is to build and evaluate a machine learning model capable of classifying statements based on their truthfulness. The workflow covers the entire data science pipeline, including data scraping, preprocessing, exploratory data analysis, model development, and final evaluation.
 
 ## Repository Structure
-The project is divided into several parts, each documented in its own Markdown and Jupyter Notebook file:
+The project is divided into several parts.
 
-- Part 1: Initial data exploration and preprocessing.
-- Part 2: Feature engineering and data splitting.
-- Part 3: Model architecture design and initial training.
-- Part 4: Hyperparameter tuning and model optimization.
-- Part 5: Final evaluation and discussion of results.
+- Part 1: Data Processing
+- Part 2: Simple Logistic Regression Model
+- Part 3: Advanced Model 
+- Part 4: Evaluation
+
 
 ## Getting Started
 
